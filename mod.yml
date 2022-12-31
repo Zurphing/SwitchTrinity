@@ -5,8 +5,8 @@ assets:
   multi:
   - name: limit/fm/trinity.bar
   method: copy
-  source: trinity.bar
-  - name: limit/us/trinity_wi.bar
+  source: trinity.bar  
+- name: limit/us/trinity_wi.bar
   multi:
   - name: limit/fm/trinity_wi.bar
   method: copy
