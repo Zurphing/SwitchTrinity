@@ -5,12 +5,14 @@ assets:
   multi:
   - name: limit/fm/trinity.bar
   method: copy
-  source: trinity.bar  
+  source: 
+  - name: trinity.bar  
 - name: limit/us/trinity_wi.bar
   multi:
   - name: limit/fm/trinity_wi.bar
   method: copy
-  source: trinity_wi.bar
+  source: 
+  - name: trinity_wi.bar
 - name: remastered\limit\us\trinity.bar\US_trinity_bar0.png
   platform: pc
   method: copy
