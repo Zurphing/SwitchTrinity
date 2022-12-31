@@ -1,0 +1,10 @@
+assets:
+- method: binarc
+  name: limit/us/trinity.bar
+  source:
+  - method: bdscript
+    name: limi
+    source:
+    - name: limi.bdscript
+    type: Bdx
+title: Simple AI Edit
