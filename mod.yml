@@ -14,192 +14,142 @@ assets:
   source: 
   - name: trinity_wi.bar
 - name: remastered\limit\us\trinity.bar\US_trinity_bar0.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar0.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar0.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar1.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar1.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar1.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar10.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar10.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar10.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar11.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar11.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar11.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar12.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar12.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar12.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar13.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar13.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar13.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar14.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar14.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar14.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar15.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar15.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar15.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar16.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar16.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar16.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar17.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar17.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar17.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar2.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar2.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar2.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar3.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar3.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar3.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar4.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar4.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar4.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar5.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar5.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar5.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar6.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar6.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar6.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar7.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar7.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar7.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar8.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar8.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar8.png
 - name: remastered\limit\us\trinity.bar\US_trinity_bar9.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar9.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\US_trinity_bar9.png
 - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar0.png
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar0.png
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar0.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar1.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar10.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar10.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar11.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar11.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar12.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar12.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar13.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar13.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar14.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar14.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar15.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar15.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar16.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar16.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar17.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar17.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar2.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar2.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar3.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar3.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar4.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar4.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar5.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar5.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar6.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar6.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar7.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar7.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar8.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar8.png
-- name: remastered\limit\us\trinity_wi.bar\US_trinity_bar9.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\US_trinity_bar9.png
 - name: remastered\limit\us\trinity.bar\se\limit\se409
+  multi:
+  - name: remastered\limit\us\trinity_wi.bar\se\limit\se409
   platform: pc
   method: copy
   source:
   - name: remastered\limit\us\trinity.bar\se\limit\se409
-- name: remastered\limit\us\trinity_wi.bar\se\limit\se409
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\limit\us\trinity_wi.bar\se\limit\se409
